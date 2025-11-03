@@ -1,9 +1,4 @@
-body{
-  border-radius: 25px;
-  border: 20px;
-  border-style:solid;
-  min-height:100vh;
-}
+
 .cover{
   margin:1%;
 }
@@ -84,4 +79,5 @@ body{
 }
 .p10{
   text-align: center;
+
 }
